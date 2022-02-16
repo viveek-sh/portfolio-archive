@@ -1,0 +1,14 @@
+Your selected colors:
+
+    Text: #d3f4fd (RGB: 211, 244, 253)
+    Background: #010c0f (RGB: 1, 12, 15)
+    Primary: #40cff7 (RGB: 64, 207, 247)
+    Secondary: #022f3b (RGB: 2, 47, 59)
+    Accent: #40cff7 (RGB: 64, 207, 247)
+
+Realtime Colors link for selected colors: https://realtimecolors.com/?colors=d3f4fd-010c0f-40cff7-022f3b-40cff7
+
+Thanks for using RealtimeColors.com!
+
+181a1b
+eaf9fd
