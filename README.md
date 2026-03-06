@@ -4,6 +4,8 @@ This repository contains an early version of my personal portfolio website built
 
 It represents my early learning phase in front-end development, where I focused on responsive design, animations, and DOM manipulation.
 
+[Live URL](https://viveek-sh.github.io/portfolio-archive/)
+
 ## Tech Stack
 
 - HTML5
